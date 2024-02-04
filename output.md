@@ -1,5 +1,5 @@
 2024_02_04 Emmett Shear
-Software engineering question: What's the difference between code and data?
+CORE QUESTION: Software engineering question: What's the difference between code and data?
 https://twitter.com/eshear/status/1753984535417762136?ref_src=twsrc%5Etfw
 
 2024_02_04 Bryan
