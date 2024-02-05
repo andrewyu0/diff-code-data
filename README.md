@@ -1,5 +1,7 @@
 # Difference between Code and Data
 
+this was a fun timebound mini self challenge 20250204SUN
+
 🟡 please feel free to contribute!
 
 2024_02_04 Emmett Shear
